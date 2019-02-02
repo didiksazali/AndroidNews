@@ -1,0 +1,71 @@
+package com.didiksazali.androidexpert.androidnews;
+
+import android.content.Intent;
+import android.support.design.widget.FloatingActionButton;
+import android.support.design.widget.Snackbar;
+import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.Toolbar;
+import android.os.Bundle;
+import android.view.View;
+import android.webkit.WebView;
+import android.widget.ImageView;
+import android.widget.TextView;
+
+import com.bumptech.glide.Glide;
+
+public class DetailActivity extends AppCompatActivity {
+
+    ImageView ivGambarBerita;
+    TextView tvTglTerbit, tvPenulis;
+    WebView wvKontenBerita;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_detail);
+
+        Toolbar toolbar = (Toolbar)findViewById(R.id.toolbar);
+        setSupportActionBar(toolbar);
+
+        FloatingActionButton fab = (FloatingActionButton)findViewById(R.id.fab);
+        fab.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+
+                Intent share = new Intent(Intent.ACTION_SEND);
+                share.setType("text/plain");
+                share.putExtra(Intent.EXTRA_TEXT, "Title : "+ getIntent().getStringExtra("JDL_BERITA") +
+                        "\n\nDate : " + getIntent().getStringExtra("TGL_BERITA"));
+                startActivity(Intent.createChooser(share, "Share Using"));
+
+                Snackbar.make(view, "Shared", Snackbar.LENGTH_LONG)
+                        .setAction("Action", null).show();
+            }
+        });
+
+        ivGambarBerita = (ImageView)findViewById(R.id.ivGambarBerita);
+        tvTglTerbit = (TextView)findViewById(R.id.tvTglTerbit);
+        tvPenulis = (TextView)findViewById(R.id.tvPenulis);
+        wvKontenBerita = (WebView) findViewById(R.id.wvKontenBerita);
+        showDetailBerita();
+    }
+
+    private void showDetailBerita() {
+        String judul_berita = getIntent().getStringExtra("JDL_BERITA");
+        String tanggal_berita = getIntent().getStringExtra("TGL_BERITA");
+        String penulis_berita = getIntent().getStringExtra("PNS_BERITA");
+        String isi_berita = getIntent().getStringExtra("ISI_BERITA");
+        String foto_berita = getIntent().getStringExtra("FTO_BERITA");
+
+        //set judul actionbar/toolbar
+        getSupportActionBar().setTitle(judul_berita);
+
+        tvPenulis.setText("Oleh : " + penulis_berita);
+        tvTglTerbit.setText(tanggal_berita);
+        Glide.with(this).load(foto_berita).into(ivGambarBerita);
+        wvKontenBerita.getSettings().setJavaScriptEnabled(true);
+        wvKontenBerita.loadData(isi_berita, "text/html; charset=utf-8", "UTF-8");
+    }
+
+
+}

@@ -1,0 +1,190 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\21223377115c002a8a8a0f6581f44fa6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\ec49d409d79f0f0c597bb235da557e56\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\4a5ae4f2ca80e465b7abe4be414c5688\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\362c22a390a29484e1cba359a6f2d6d8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\34498dde458ce0a3625dbeb7418950d2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\3cd80540a6d3fba0687f8531eb881123\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\3560086987e46a7ec0cd9940d2616179\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\aa4caeac06b6735ced4e588a57e24586\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\9fabe9eb51650a96de4196d3b1a24287\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\a4a4b502843cdd493e6fc402caabfa65\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\a065bb322d34ca68daa2bdd121be5818\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\9c04e40ef2c6559c0aba63402ead2579\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\7551712c1fc9e027993cd2364330eae2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\8c7bc2bbdbb08f9f98e370920509a5a3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\3170a4aa993a1fc65018f46bf374d466\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\b4ae901fb33e1da7c381c8464355f16a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\bc9a5fab4b01e1788c3a69f975d82db4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\dc8899fb0e181a584103e7946a15cfaf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\52124aaf10e4b52402e093ab3d46b3c9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\9c2ce4c833596f2fb9357773b980d3d3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\4ca6d1c0fb72f9d20a91d5c4c011fad6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\e00913645da2c6156e03d139cb07ae04\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\64e3fb611bbe076b0bc923f9df1e07a2\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\06116bdfec104c1c620b453399e6184a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\4f548e58c99132288db9e1df9f912189\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\dc125d69c9c1a2e2810383db7a85a70d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\89298a7138385c83a01302add4b2998b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c72c2512d82d42f0b11a29cc0ed09ad0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\563f783f056f0e514e2ebbda096fdc31\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\8a471dabb420d8ad6e082f00a5d1159b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\656997fe75c31acb55b03e61c3c7e171\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\df632bb13b7590b515da529d7131097b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\f2c85d3774658bb6bebbccd22a17eefb\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml:3:5-56
+		INJECTED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml:7:5-25:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\21223377115c002a8a8a0f6581f44fa6\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\21223377115c002a8a8a0f6581f44fa6\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\4a5ae4f2ca80e465b7abe4be414c5688\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\4a5ae4f2ca80e465b7abe4be414c5688\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\3cd80540a6d3fba0687f8531eb881123\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\3cd80540a6d3fba0687f8531eb881123\AndroidManifest.xml:10:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\4ca6d1c0fb72f9d20a91d5c4c011fad6\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\4ca6d1c0fb72f9d20a91d5c4c011fad6\AndroidManifest.xml:22:5-94
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\e00913645da2c6156e03d139cb07ae04\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\e00913645da2c6156e03d139cb07ae04\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\64e3fb611bbe076b0bc923f9df1e07a2\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\64e3fb611bbe076b0bc923f9df1e07a2\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\4ca6d1c0fb72f9d20a91d5c4c011fad6\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.didiksazali.androidexpert.androidnews.MainActivity
+ADDED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.didiksazali.androidexpert.androidnews.DetailActivity
+ADDED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml:21:9-24:68
+	android:label
+		ADDED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml:23:13-58
+	android:theme
+		ADDED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml:24:13-56
+	android:name
+		ADDED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml:22:13-43
+uses-sdk
+INJECTED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\21223377115c002a8a8a0f6581f44fa6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\21223377115c002a8a8a0f6581f44fa6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\ec49d409d79f0f0c597bb235da557e56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\ec49d409d79f0f0c597bb235da557e56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\4a5ae4f2ca80e465b7abe4be414c5688\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\4a5ae4f2ca80e465b7abe4be414c5688\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\362c22a390a29484e1cba359a6f2d6d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\362c22a390a29484e1cba359a6f2d6d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\34498dde458ce0a3625dbeb7418950d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\34498dde458ce0a3625dbeb7418950d2\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\3cd80540a6d3fba0687f8531eb881123\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\3cd80540a6d3fba0687f8531eb881123\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\3560086987e46a7ec0cd9940d2616179\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\3560086987e46a7ec0cd9940d2616179\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\aa4caeac06b6735ced4e588a57e24586\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\aa4caeac06b6735ced4e588a57e24586\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\9fabe9eb51650a96de4196d3b1a24287\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\9fabe9eb51650a96de4196d3b1a24287\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\a4a4b502843cdd493e6fc402caabfa65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\a4a4b502843cdd493e6fc402caabfa65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\a065bb322d34ca68daa2bdd121be5818\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\a065bb322d34ca68daa2bdd121be5818\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\9c04e40ef2c6559c0aba63402ead2579\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\9c04e40ef2c6559c0aba63402ead2579\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\7551712c1fc9e027993cd2364330eae2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\7551712c1fc9e027993cd2364330eae2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\8c7bc2bbdbb08f9f98e370920509a5a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\8c7bc2bbdbb08f9f98e370920509a5a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\3170a4aa993a1fc65018f46bf374d466\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\3170a4aa993a1fc65018f46bf374d466\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\b4ae901fb33e1da7c381c8464355f16a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\b4ae901fb33e1da7c381c8464355f16a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\bc9a5fab4b01e1788c3a69f975d82db4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\bc9a5fab4b01e1788c3a69f975d82db4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\dc8899fb0e181a584103e7946a15cfaf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\dc8899fb0e181a584103e7946a15cfaf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\52124aaf10e4b52402e093ab3d46b3c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\52124aaf10e4b52402e093ab3d46b3c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\9c2ce4c833596f2fb9357773b980d3d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\9c2ce4c833596f2fb9357773b980d3d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\4ca6d1c0fb72f9d20a91d5c4c011fad6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\4ca6d1c0fb72f9d20a91d5c4c011fad6\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\e00913645da2c6156e03d139cb07ae04\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\e00913645da2c6156e03d139cb07ae04\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\64e3fb611bbe076b0bc923f9df1e07a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\64e3fb611bbe076b0bc923f9df1e07a2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\06116bdfec104c1c620b453399e6184a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\06116bdfec104c1c620b453399e6184a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\4f548e58c99132288db9e1df9f912189\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\4f548e58c99132288db9e1df9f912189\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\dc125d69c9c1a2e2810383db7a85a70d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\dc125d69c9c1a2e2810383db7a85a70d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\89298a7138385c83a01302add4b2998b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\89298a7138385c83a01302add4b2998b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c72c2512d82d42f0b11a29cc0ed09ad0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c72c2512d82d42f0b11a29cc0ed09ad0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\563f783f056f0e514e2ebbda096fdc31\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\563f783f056f0e514e2ebbda096fdc31\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\8a471dabb420d8ad6e082f00a5d1159b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\8a471dabb420d8ad6e082f00a5d1159b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\656997fe75c31acb55b03e61c3c7e171\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\656997fe75c31acb55b03e61c3c7e171\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\df632bb13b7590b515da529d7131097b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\df632bb13b7590b515da529d7131097b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\f2c85d3774658bb6bebbccd22a17eefb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Didit\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\f2c85d3774658bb6bebbccd22a17eefb\AndroidManifest.xml:20:5-44
+INJECTED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android Project\berita\AndroidNews\app\src\main\AndroidManifest.xml
